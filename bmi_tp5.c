@@ -41,4 +41,5 @@ int main(void) {
 		printf("\nSu condición es: peso bajo ");
 	}
 	return 0;
+
 }
